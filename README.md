@@ -4,7 +4,13 @@ Welcome to my data science portfolio! This repository contains various data scie
 ### Aircraft Airline
 Using the Dataset, the data and insights presented here are a testament to the safety of air travel in 2021. We're prepared to navigate the media landscape with facts and transparency. Our airline stands as a beacon of safety and responsibility, committed to ensuring the well-being of our passengers. 
 
-[**Overview Analysis **](https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/README.md)
+[**Overview Analysis**](https://github.com/tmaxnike/tmaxnike.GitHub.io/blob/main/Airline%20Project/README.md)
+
+	Infographic 
+
+	Summary
+
+	Datasets
 
 
 
