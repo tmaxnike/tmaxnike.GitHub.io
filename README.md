@@ -44,3 +44,32 @@ o	Conclusion
 o	Datasets
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### SuperKart Sales Prediction
+The primary goal is to develop a predictive model that estimates the total sales for each SuperKart outlet for the upcoming quarter. This model will help the organization in strategic planning, inventory management, and optimizing sales operations in various city tiers. By understanding the key drivers of sales in different store types and locations, SuperKart can make informed decisions to boost profitability and customer satisfaction.
+
+[**Data Visualization**](https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/Project_SuperKart/README.md)
+
+o	Overview
+
+o	Data Description 
+
+o	Methodology 
+
+o	Ethical Considerations 
+
+o	Challenges/Issues
+
+o	Datasets
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About Me
+I am passionate about data science and its applications. I am proficient in programming languages and tools such as Python, R, SQL and Tableau. Overall, with the tools and knowledge I am very motivated, adaptable, and eager to contribute to the field of Data science. Connect with me on LinkedIn for collaboration and discussions.
+
+Feel free to reach out if you have any questions or feedback! You can also email me at rtebong@my365.bellevue.edu.
+
+
+
+
+
+
