@@ -4,7 +4,7 @@ Welcome to my data science portfolio! This repository contains various data scie
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Models 
 ### Analysing Data
-**Models**{https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/README.md}
+[**Models**](https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/README.md)
 
 
 
