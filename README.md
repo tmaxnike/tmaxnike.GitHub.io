@@ -12,5 +12,17 @@ Using the Dataset, the data and insights presented here are a testament to the s
 
 	Datasets
 
+### Diabetes Project
+Diabetes is a prevalent disease worldwide, and understanding its causes and predicting its occurrence is crucial for effective healthcare management. This report presents a comprehensive analysis of diabetes in the Pima Indians tribe through exploratory data analysis and predictive modeling. The dataset contains various features such as glucose levels, blood pressure, BMI, and age, along with the target variable indicating diabetes outcome. 
+
+[**Visualization**](https://github.com/tmaxnike/tmaxnike.GitHub.io/blob/main/Diabetes%20Dataset/README.md)
+
+   	Objective 
+
+   	Data Dictionary
+
+   	Visualizations
+
+   	Datasets
 
 
