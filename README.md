@@ -4,5 +4,8 @@ Welcome to my data science portfolio! This repository contains various data scie
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Models 
 ### Analysing Data
+dgbfdngfdmhhg vbzvcxn bnb
+sVCbzvxnbcmnvm
+xcvb vcbn
 
 
