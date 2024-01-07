@@ -26,5 +26,21 @@ Diabetes is a prevalent disease worldwide, and understanding its causes and pred
 
    	Datasets
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+### Project Sentiment Analysis
+The dataset contains information about various customer attributes such as demographics, and financial and account-related activities. We can find factors that influence customer churn by analyzing this dataset and can provide recommendations for the bank to reduce customer churn and improve customer retention rate and satisfaction.
+
+[**Data Exploration and Analysis**](https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/Project_Sentiment_Analysis/README.md)
+
+o	Introduction 
+
+o	Data Preparation
+
+o	Observations
+
+o	Conclusion 
+
+o	Datasets
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
