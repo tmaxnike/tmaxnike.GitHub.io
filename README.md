@@ -66,7 +66,7 @@ o	Datasets
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About Me
-I am passionate about data science and its applications. I am proficient in programming languages and tools such as Python, R, SQL and Tableau. Overall, with the tools and knowledge I am very motivated, adaptable, and eager to contribute to the field of Data science. Connect with me on LinkedIn for collaboration and discussions.
+I am passionate about data science and its applications. I am proficient in programming languages and tools such as Python, R, SQL and Tableau. Overall, with the tools and knowledge acquired I am very motivated, adaptable, and eager to contribute to the field of Data science. Connect with me on LinkedIn for collaboration and discussions.
 
 Feel free to reach out if you have any questions or feedback! You can also email me at rtebong@my365.bellevue.edu.
 
