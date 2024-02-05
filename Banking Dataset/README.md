@@ -11,21 +11,37 @@ The challenge lies in accurately predicting which customers are inclined to subs
 
 Data Description:
 The dataset encompasses a wide array of customer-related information :
+
 •	Age - Numeric representation of the age of a person.
+
 •	Job - Categorical, nominal classification of a person's job type, such as 'admin.', 'blue-collar', 'entrepreneur', 'housemaid', 'management', 'retired', 'self-employed', 'services', 'student', 'technician', 'unemployed', 'unknown'.
+
 •	Marital - Categorical, nominal status indicating the marital situation of a person, options include 'divorced', 'married', 'single', 'unknown'; note: 'divorced' also includes widowed individuals.
+
 •	Education - Categorical, nominal classification of a person's education level, with options like 'basic.4y', 'basic.6y', 'basic.9y', 'high.school', 'illiterate', 'professional.course', 'university.degree', 'unknown'.
+
 •	Default - Categorical, nominal indicator of whether a person has credit in default, with options 'no', 'yes', 'unknown'.
+
 •	Housing - Categorical, nominal status indicating if a person has a housing loan, with options 'no', 'yes', 'unknown'.
+
 •	Loan - Categorical, nominal status showing if a person has a personal loan, options include 'no', 'yes', 'unknown'.
+
 •	Contact - Categorical, nominal type of contact communication used, such as 'cellular' or 'telephone'.
+
 •	Month - Categorical, ordinal representation of the last contact month of the year, options range from 'jan' to 'dec'.
+
 •	Day_of_Week - Categorical, ordinal representation of the last contact day of the week, including 'mon', 'tue', 'wed', 'thu', 'fri'.
+
 •	Duration - Numeric value representing the last contact duration in seconds. Note: This attribute significantly impacts the output target, e.g., duration=0 leads to y='no'.
+
 •	Campaign - Numeric count of the number of contacts performed during the current campaign for this client, including the last contact.
+
 •	Pdays - Numeric count of the days passed since the client was last contacted from a previous campaign; 999 indicates the client was not previously contacted.
+
 •	Previous - Numeric count of the number of contacts performed before the current campaign for this client.
+
 •	Poutcome - Categorical, nominal outcome of the previous marketing campaign, with options 'failure', 'nonexistent', 'success'.
+
 •	Y (Target Variable) - Binary indication of whether the client has subscribed to a term deposit, with options 'yes', 'no'.
 
 
