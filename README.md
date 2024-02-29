@@ -58,6 +58,11 @@ The primary goal is to develop a predictive model that estimates the total sales
 	Datasets
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+###  Banking Dataset   
+Facing a decline in revenue due to a shortfall in long-term customer investments, the Portuguese Bank seeks to revitalize its financial standing.   
+This project centers on the use of machine learning techniques to predict customer propensity to subscribe to term deposits. By identifying likely subscribers, the bank can channel its marketing resources more effectively, enhancing both customer engagement and its investment portfolio.  
+[**Term Deposit Subscription Prediction**](https://github.com/tmaxnike/tmaxnike.GitHub.io/tree/main/Banking%20Dataset)
+
 
 
 
