@@ -37,11 +37,11 @@ The dataset contains information about various customer attributes such as demog
 
 [**Data Exploration and Analysis**](https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/Project_Sentiment_Analysis/README.md)
 
-o	Introduction 
-o	Data Preparation
-o	Observations
-o	Conclusion 
-o	Datasets
+	Introduction 
+	Data Preparation
+	Observations
+	Conclusion 
+	Datasets
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -50,12 +50,12 @@ The primary goal is to develop a predictive model that estimates the total sales
 
 [**Data Visualization**](https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/Project_SuperKart/README.md)
 
-o	Overview
-o	Data Description 
-o	Methodology 
-o	Ethical Considerations 
-o	Challenges/Issues
-o	Datasets
+	Overview
+	Data Description 
+	Methodology 
+	Ethical Considerations 
+	Challenges/Issues
+	Datasets
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
