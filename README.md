@@ -8,7 +8,7 @@ Welcome to my data science portfolio! This repository contains various data scie
 [**Contact**](https://github.com/tmaxnike/tmaxnike.GitHub.io/tree/main/Contact#readme)
 
 
-## Project Groups 
+## Projects 
 
 ### Aircraft Airline  
 Using the Dataset, the data and insights presented here are a testament to the safety of air travel in 2021. We're prepared to navigate the media landscape with facts and transparency. Our airline stands as a beacon of safety and responsibility, committed to ensuring the well-being of our passengers. 
@@ -16,9 +16,7 @@ Using the Dataset, the data and insights presented here are a testament to the s
 [**Overview Analysis**](https://github.com/tmaxnike/tmaxnike.GitHub.io/blob/main/Airline%20Project/README.md)
 
 	Infographic 
-[**gkgkgk**](https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/Airline%20Project/README.md)
 	Summary
-
 	Datasets
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
@@ -28,11 +26,8 @@ Diabetes is a prevalent disease worldwide, and understanding its causes and pred
 [**Visualization**](https://github.com/tmaxnike/tmaxnike.GitHub.io/blob/main/Diabetes%20Dataset/README.md)
 
    	Objective 
-
    	Data Dictionary
-
    	Visualizations
-
    	Datasets
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -43,13 +38,9 @@ The dataset contains information about various customer attributes such as demog
 [**Data Exploration and Analysis**](https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/Project_Sentiment_Analysis/README.md)
 
 o	Introduction 
-
 o	Data Preparation
-
 o	Observations
-
 o	Conclusion 
-
 o	Datasets
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -60,23 +51,13 @@ The primary goal is to develop a predictive model that estimates the total sales
 [**Data Visualization**](https://github.com/tmaxnike/tmaxnike.GitHub.io/edit/main/Project_SuperKart/README.md)
 
 o	Overview
-
 o	Data Description 
-
 o	Methodology 
-
 o	Ethical Considerations 
-
 o	Challenges/Issues
-
 o	Datasets
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About Me
-I am passionate about data science and its applications. I am proficient in programming languages and tools such as Python, R, SQL and Tableau. Overall, with the tools and knowledge acquired I am very motivated, adaptable, and eager to contribute to the field of Data science. Connect with me on [**LinkedIn**](https://www.linkedin.com/in/tebong-roland-8456644a/) for collaboration and discussions.
-
-Feel free to reach out if you have any questions or feedback! You can also email me at rtebong@my365.bellevue.edu.
-
 
 
 
