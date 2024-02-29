@@ -61,8 +61,41 @@ The primary goal is to develop a predictive model that estimates the total sales
 ###  Banking Dataset   
 Facing a decline in revenue due to a shortfall in long-term customer investments, the Portuguese Bank seeks to revitalize its financial standing.   
 This project centers on the use of machine learning techniques to predict customer propensity to subscribe to term deposits. By identifying likely subscribers, the bank can channel its marketing resources more effectively, enhancing both customer engagement and its investment portfolio.  
-[**Term Deposit Subscription Prediction**](https://github.com/tmaxnike/tmaxnike.GitHub.io/tree/main/Banking%20Dataset)
+   
+[**Term Deposit Subscription Prediction**](https://github.com/tmaxnike/tmaxnike.GitHub.io/tree/main/Banking%20Dataset) 
 
+ Business Problem
+ Data Description
+ Methodology
+ Ethical Consideration
+ Challenges 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Churn Prediction and Customer Retention Analysis 
+This report delves into the critical issue of customer churn and 
+its implications for businesses. By analyzing this problem, we aim to shed light on the underlying factors 
+that lead to customer attrition, present a predictive model, and propose actionable strategies for improving 
+customer retention.    
+
+[**Exploratory Data Analysis**](https://github.com/tmaxnike/tmaxnike.GitHub.io/tree/main/Churn%20Prediction%20and%20Customer%20Retention%20Analysis) 
+
+ Introduction
+ Data Source
+ Conclusion
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+###  Hotel Booking Cancellation Prediction 
+
+The hospitality industry faces a persistent challenge with booking cancellations, significantly impacting revenue streams. INN Hotels Group, operating in Portugal, confronts this issue and seeks data-driven solutions. As a data scientist, your task is to analyze booking data to identify factors influencing cancellations, develop predictive models, and formulate strategies to mitigate revenue loss. The objective is to predict booking cancellations accurately, enabling proactive measures to minimize revenue loss and optimize operational efficiency.     
+
+[**Hotel Booking Analysis**](https://github.com/tmaxnike/tmaxnike.GitHub.io/tree/main/Hotel%20Booking%20Cancelation)   
+
+ Business Problem
+ Data Description
+ Methodology
+ Ethical Consideration
+ Challenges 
 
 
 
