@@ -119,6 +119,29 @@ Interactive Analysis: Hive and Solr enable analysts to interactively explore da
  Data Processing
  Fraud Detection & Alerting  
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
+## Titanic Survival Predictions   
 
+This project aims to understand and predict survival rates during maritime disasters, using the
+Titanic tragedy as a case study. By analyzing passenger data, we seek to identify key factors that
+influenced survival chances. This could provide insights for modern maritime safety protocols and
+evacuation strategies, enhancing passenger safety in current and future maritime travel. The
+objective of this problem is to build a predictive model that answers the question: “what sorts of
+people were more likely to survive?” using the passenger data (i.e., name, age, gender, socioeconomic
+class and more.).  
+
+[**Predictions**](https://github.com/tmaxnike/tmaxnike.GitHub.io/tree/main/Titanic%20Survival)      
+
+ Context
+ Business Problem
+ Dataset
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## CurrencyApi  
+
+This API provides access to real-time currency exchange rates. It offers information on exchange rates between different currencies, such as USD, EUR, GBP, etc., which can be used to analyze sales data in different currencies. The Currency Conversion API is a powerful tool for handling exchange rate conversions in data science projects. This API offers current and historical foreign exchange rates, providing accurate and up-to-date currency conversion data. It eliminates the need to worry about uptime or outdated information, ensuring reliable access to the latest rates.  
+
+[**API**](https://github.com/tmaxnike/tmaxnike.GitHub.io/tree/main/CurrencyApi)      
 
 
